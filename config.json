@@ -5,11 +5,12 @@
     "theme": "tvpage",
     "disablePathToLower": true,
     "enableRobotsTXT": true,
-    "galleryChannelIds": "",
+    "galleryChannelIds": "85322389,94530477",
     "params": {
         "loginId": "1758904",
         "subfolder": "",
         "firstpartycookies": true,
-        "cookiedomain": "chante.com"
+        "cookiedomain": "chante.com",
+        "reservedContent": "brands\/"
     }
 }
