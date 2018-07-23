@@ -1,0 +1,15 @@
+{
+    "title": "Chante",
+    "baseURL": "https:\/\/videos.chante.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758904",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "chante.com"
+    }
+}
