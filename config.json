@@ -11,6 +11,6 @@
         "subfolder": "",
         "firstpartycookies": true,
         "cookiedomain": "chante.com",
-        "reservedContent": "brands\/"
+        "reservedContent": "brands\/,brand.md"
     }
 }
